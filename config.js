@@ -1,34 +1,34 @@
 //=============『 Utama 』================== //
-global.owner = ['6281322667077', '6281215710461'] 
+global.owner = ['6281252232882', '6282146218274'] 
 global.mods = [] 
-global.prems = ['6281215710461', '6281322667077'] 
+global.prems = ['6281252232882', '6282146218274'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ZxyuuRomm'
-global.nameowner2 = 'XzyuuNaii'
-global.numberowner = '6281322667077'
-global.numberowner2 = '6281215710461'
-global.instagram = 'https://instagram.com/Naiichnz'
-global.github = 'https://github.com/romlisuhanda'
-global.dana = '081322667077'
-global.pulsa = '081215710461'
+global.nameowner = 'owner Lemonbotz'
+global.nameowner2 = 'Owner Rielbotz(jasarun)'
+global.numberowner = '6281252232882'
+global.numberowner2 = '6282146218274'
+global.instagram = 'https://instagram.com/@anton_krinj'
+global.github = 'https://github.com'
+global.dana = '-'
+global.pulsa = '6281252232882'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Z X Y U U B O T Z - MD'
-global.gc = 'https://chat.whatsapp.com/K9vsKm2jDga8ATZEcfpEGA'
+global.namebot = 'L E M O N B O T Z - MD'
+global.gc = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ'
 global.web = 'https://zxyuuromm2.romlisuhanda040.repl.co/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/a233720fe5119e6275ae7.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/a233720fe5119e6275ae7.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/ac1288af347009b5c3f10.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/ac1288af347009b5c3f10.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Z X Y U U B O T Z - Md'
+global.wm = 'L E M O N B O T Z - MD'
 global.watermark = wm
-global.wm2 = '                               「 Xzyuu Naii⁩ 」'
-global.wm3 = '⫹⫺ Zxyuu Botz'
+global.wm2 = '                               「 ༆ LemonBotz ༆ 」'
+global.wm3 = '⫹⫺ Lemon Botz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/a233720fe5119e6275ae7.jpg'
@@ -39,7 +39,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = ''
-global.author = '© 2022 Zxyuu - Xzyuu'
+global.author = '© 2022 LemonBotz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
