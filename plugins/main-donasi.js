@@ -9,8 +9,8 @@ let anu = `Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
 ├ Dana : ${dana}
-├ Pulsa : 081224804615
-├ pulsa : 081215710461
+├ Pulsa : 083813417529 AXIS
+├ pulsa : 083813417529
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
@@ -21,7 +21,7 @@ wa.me/${numberowner} (Owner)
 wa.me/${numberowner2} (Owner)
 
 *donasi via follow ig juga boleh*`
-  conn.sendButtonImg(m.chat, fla + teks, anu, instagram, 'Back', '.help', m) 
+  conn.sendButtonImg(m.chat, fla + teks, anu, instagram, 'Back🤖', '.help', m) 
 }
 handler.help = ['donasi', 'donate']
 handler.tags = ['xp', 'info']
