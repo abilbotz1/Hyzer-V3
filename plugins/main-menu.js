@@ -304,7 +304,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             description: menuu,
             buttonText: 'KLIK DISINI',
             listType: 1,
-            footerText: "lemonBotz ㋛︎",
+            footerText: "𝙍𝙞𝙚𝙡𝘽𝙤𝙩𝙯 ㋛︎",
             mtype: 'listMessage',
             sections: [
               {
@@ -507,35 +507,35 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: 'Website Creator',
+               displayText: '𝘾𝙖𝙧𝙞 𝙖𝙥𝙖 𝙗𝙖𝙣𝙜😎',
                url: web
              }
 
            },
              {
              urlButton: {
-               displayText: 'Group Bot', 
+               displayText: '𝙂𝙧𝙤𝙪𝙥 𝙗𝙤𝙩🤖', 
                url: gc
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'Owner',
+               displayText: '𝙤𝙬𝙣𝙚𝙧 𝙘𝙤𝙠 𝙞𝙣𝙞🗿',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'Donasi',
+               displayText: '𝘿𝙤𝙣𝙖𝙨𝙞 𝙣𝙜𝙖𝙗📫',
                id: '.donasi',
              }
 
            },
            {
              quickReplyButton: {
-               displayText: 'Credits',
+               displayText: '𝘾𝙧𝙚𝙙𝙞𝙩𝙨🌱',
                id: '.tqto',
              }
            }]
