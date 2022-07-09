@@ -706,9 +706,9 @@ module.exports = {
                             pp = await this.profilePictureUrl(user, 'image')
                         } catch (e) {
                         } finally {
-                            text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,si Beban Masuk Grup').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
-                                (chat.sBye || this.bye || conn.bye || 'Dahlahh :('))
-                                this.send3ButtonImg(id, pp, text, "Group Message", "Menu", ".menu", "Owner", ".owner", "Group ZxyuuRomm👆😅", ".gcbot", null)
+                            text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || '*Yah,si Beban Masuk Grup*🗿').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
+                                (chat.sBye || this.bye || conn.bye || '*Good bye dek*🗿'))
+                                this.send3ButtonImg(id, pp, text, "Group Message", "𝗠𝗘𝗡𝗨🤖", ".menu", "𝗢𝗪𝗡𝗘𝗥🗿", ".owner", "𝗚𝗥𝗢𝗨𝗣 𝗥𝗜𝗘𝗟𝗕𝗢𝗧𝗭👆😅", ".gcbot", null)
                                 }
                     }
                 }
@@ -746,13 +746,13 @@ Untuk mematikan fitur ini, ketik
 
 global.dfail = (type, m, conn) => {
     let msg = {
-        rowner: '_*Lu bukan owner gua banh*_',
+        rowner: '_*Lu emang owner riel kah dek?*_',
         owner: '_*Lu bukan owner bot gua banh*_',
-        mods: '_*Lu bukan moderator gua banh*_',
-        premium: '_*Beli premium dulu banh*_',
-        group: '_*Khusus Gruop ngntd*_',
+        mods: '_*Lu emng mkderator bot riel kah dek?*_',
+        premium: '_*Beli premium diriel dulu su*_',
+        group: '_*Khusus Gruop cok*_',
         private: 'Perintah ini hanya dapat digunakan di Chat Pribadi!',
-        admin: '*_Lu Admin?_*',
+        admin: '*_Lu Admin kah dek?_*',
         botAdmin: '_*Jadiin Gwehj Admin Dulu*_',
         unreg: '*Silahkan daftar untuk menggunakan Fitur Ini dengan cara mengetik:* #daftar nama.umur\n\nContoh:\n#daftar Naii.16',
         restrict: 'Fitur ini di *disable*!'
