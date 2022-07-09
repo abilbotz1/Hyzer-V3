@@ -1,7 +1,7 @@
 //=============『 Utama 』================== //
-global.owner = ['6281252232882', '6282146218274'] 
+global.owner = ['6282146218274', '6282146218274'] 
 global.mods = [] 
-global.prems = ['6281252232882', '6282146218274'] 
+global.prems = ['6282146218274', '6282146218274'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'owner Rielbotz'
@@ -25,7 +25,7 @@ global.fotonya1 = 'https://telegra.ph/file/f043f8f370a99140b4ea8.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/f043f8f370a99140b4ea8.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'L E M O N B O T Z - MD'
+global.wm = 'R I E L B O T Z - MD'
 global.watermark = wm
 global.wm2 = '                               「 ༆ RielBotz ༆ 」'
 global.wm3 = '⫹⫺ ʀɪᴇʟ ʙᴏᴛᴢ'
