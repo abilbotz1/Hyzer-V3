@@ -4,34 +4,34 @@ global.mods = []
 global.prems = ['6281252232882', '6282146218274'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'owner Lemonbotz'
-global.nameowner2 = 'Owner Rielbotz(jasarun)'
-global.numberowner = '6281252232882'
-global.numberowner2 = '6282146218274'
-global.instagram = 'https://instagram.com/@anton_krinj'
-global.github = 'https://github.com'
+global.nameowner = 'owner Rielbotz'
+global.nameowner2 = 'BOTnya riel'
+global.numberowner = '6282146218274'
+global.numberowner2 = '6283112471048'
+global.instagram = 'https://instagram.com/@kontl_krinj'
+global.github = 'https://github.com/Rielgans12'
 global.dana = '-'
-global.pulsa = '6281252232882'
+global.pulsa = '6283813417529'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'L E M O N B O T Z - MD'
+global.namebot = 'R I E L B O T Z- MD'
 global.gc = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ'
-global.web = 'https://zxyuuromm2.romlisuhanda040.repl.co/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://Rieltod.repl.co/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/ac1288af347009b5c3f10.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/ac1288af347009b5c3f10.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/f043f8f370a99140b4ea8.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/f043f8f370a99140b4ea8.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'L E M O N B O T Z - MD'
 global.watermark = wm
-global.wm2 = '                               「 ༆ LemonBotz ༆ 」'
-global.wm3 = '⫹⫺ Lemon Botz'
+global.wm2 = '                               「 ༆ RielBotz ༆ 」'
+global.wm3 = '⫹⫺ ʀɪᴇʟ ʙᴏᴛᴢ'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/a233720fe5119e6275ae7.jpg'
+global.media = 'https://telegra.ph/file/f043f8f370a99140b4ea8.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -39,7 +39,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = ''
-global.author = '© 2022 LemonBotz'
+global.author = '© 2022 𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
