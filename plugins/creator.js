@@ -3,7 +3,7 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:Sy;Bot;;;
-FN: RielGans🗿
+FN: LemonGans🗿
 item.ORG: ytta!
 item1.TEL;waid=6281252232882:6282146218274@s.whatsapp.net
 item1.X-ABLabel:Sibuk 
@@ -24,7 +24,7 @@ const sentMsg  = await conn.sendMessage(
         }
     }
 )
-await conn.send2But(m.chat, "*----------[ OWNER ]----------*\n\n• https://wa.me/6282146218274 (RielXzy)\n• https://wa.me/6283112471048(botnya riel)\n\n📮Note:\n》 Chat Main' Ga bakal di tanggapi\n》 Dilarang Telpon Or vc\n\n_Dah Segitu ae_", 'RieXzy', 'Group Rielbotzbotz', '.gcbot', 'Menunya🤖', '.menu', sentMsg)}
+await conn.send2But(m.chat, "*----------[ OWNER ]----------*\n\n• https://wa.me/6281252232882 (antonGans)\n• https://wa.me/6282146218274 (rielGans)\n\n📮Note:\n》 Chat Main' Ga bakal di tanggapi\n》 Dilarang Telpon Or vc\n\n_Dah Segitu ae_", 'LemonXzy', 'Group lemonbotz', '.gcbot', 'Menunya🤖', '.menu', sentMsg)}
 handler.help = ['owner', 'creator']
 handler.tags = ['info']
 
