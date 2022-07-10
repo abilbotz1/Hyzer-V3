@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6282146218274', '6282146218274'] 
+global.owner = ['6281252232882', '6281252232882'] 
 global.mods = [] 
 global.prems = ['6282146218274', '6282146218274'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'owner Rielbotz'
-global.nameowner2 = 'BOTnya riel'
-global.numberowner = '6282146218274'
-global.numberowner2 = '6283112471048'
-global.instagram = 'https://instagram.com/@kontl_krinj'
+global.nameowner = 'owner Lemonbotz'
+global.nameowner2 = 'owner rielbotx'
+global.numberowner = '6281252232882'
+global.numberowner2 = '6282146218274'
+global.instagram = 'https://instagram.com/@anton_krinj'
 global.github = 'https://github.com/Rielgans12'
 global.dana = '-'
 global.pulsa = '6283813417529'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'R I E L B O T Z- MD'
+global.namebot = 'L E M O N B O T Z- MD'
 global.gc = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ'
 global.web = 'https://Rieltod.repl.co/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -25,10 +25,10 @@ global.fotonya1 = 'https://telegra.ph/file/f043f8f370a99140b4ea8.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/f043f8f370a99140b4ea8.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'R I E L B O T Z - MD'
+global.wm = 'L E M O N B O T Z - MD'
 global.watermark = wm
-global.wm2 = '                               「 ༆ RielBotz ༆ 」'
-global.wm3 = '⫹⫺ ʀɪᴇʟ ʙᴏᴛᴢ'
+global.wm2 = '                               「 ༆ LemonBotz ༆ 」'
+global.wm3 = '⫹⫺ LEMON ʙᴏᴛᴢ'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/f043f8f370a99140b4ea8.jpg'
